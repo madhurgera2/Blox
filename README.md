@@ -1,9 +1,3 @@
-
-
-
-
-<!-- PROJECT LOGO -->
-<br />
 <div align="center">
   <h3 align="center">Blox</h3>
 
